@@ -1,3 +1,7 @@
 # OxiMikaOS
 Operating System made in C# Powered By Cosmos.
-helloooooooooooooooooooo
+
+
+ONLY WORK IN EMULATOR 
+
+ME IN TELEGRAM @OXIMIKA
